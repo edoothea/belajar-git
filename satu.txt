@@ -1,2 +1,4 @@
 ini data baru
 ini dari master
+
+ini masih baru dari master
