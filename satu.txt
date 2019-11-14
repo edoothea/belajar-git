@@ -1,2 +1,2 @@
 ini data baru
-ini dari dev
+ini dari master
